@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Charles Javelona',
+  subtitle: 'Fallibilist, Autodidact',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,16 +25,13 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Charles Javelona',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'I write to teach myself complex topics.',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: 'charlesjavelona@gmail.com',
+      twitter: '@charlesjavelona',
+      github: 'charlesjavelona',
     }
   }
 };
