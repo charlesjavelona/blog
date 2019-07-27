@@ -30,8 +30,11 @@ module.exports = {
     bio: 'I write to teach myself complex topics.',
     contacts: {
       email: 'charlesjavelona@gmail.com',
+      telegram: '',
       twitter: '@charlesjavelona',
       github: 'charlesjavelona',
+      rss: '',
+      vkontakte: ''
     }
   }
 };
