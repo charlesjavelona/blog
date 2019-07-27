@@ -65,4 +65,5 @@ In this case, a formula will always be use in data science. There's no need to r
 
 `σ` or `sigma` is the standard deviation of the bell curve. It means, how far apart are the points are too each other. In the above example, the `σ` of the green line is 0.5.
 
+Normal distribution is important to understand because it is used widely in inferential statistics and hypothesis testing, where the sample size is large (n>30).
 
