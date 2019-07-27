@@ -67,3 +67,15 @@ In this case, a formula will always be use in data science. There's no need to r
 
 Normal distribution is important to understand because it is used widely in inferential statistics and hypothesis testing, where the sample size is large (n>30).
 
+#### Central Limit Theorem
+
+Central limit theorem is given a dataset with unknown distribution(could be binomial, uniform, or random). The sample means will be close to the normal distribution.
+
+To put it in simple words, when you add up and normalize independent random variables(like dice rolls), their sum tends to look like a normal distribution.
+
+
+#### Sampling
+
+Is when a subset of a particular dataset is taken to represent the whole dataset for hypotheses testing. The reason why this is done it's because it is practical and cost effective to collect a general and indpendent sample size to represent the whole population of a data. 
+
+
