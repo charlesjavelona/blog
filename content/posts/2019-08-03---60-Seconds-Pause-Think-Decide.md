@@ -12,11 +12,17 @@ tags:
 description: "In the world of tech, convenience is everywhere. This leads people to habitually expect things to come fast. Even with decicisions. Rushed decisions can affect our lives negatively. It may take us 60 seconds to prevent negative life outcomes by pausing and thinking critically for less than or equal to 60 seconds."
 ---
 
-In the world of tech, convenience is everywhere. This leads us to habitually expect things to come fast. Even with our decicisions. Rushed decisions can affect our lives negatively. It may take us 60 seconds to prevent negative life outcomes by pausing and thinking critically for less than or equal to 60 seconds.
+In the world of tech, convenience is everywhere. This leads us to habitually expect things to come fast. Even with our decicisions. Rushed decisions can affect our lives negatively. It may take us 60 seconds to prevent negative life outcomes by pausing and thinking critically for less than or more than 60 seconds.
 
-Candidly speaking, I have this nasty habit of blanking out and deciding what first comes to mind when asked certain questions I'm unfamiliar with. It almost feels the same as staring blankly at a exam paper and not knowing what the answer is. I panick and hastily choose an answer instead of thinking critically for more than 30 seconds.
+Candidly speaking, I have this nasty habit of blanking out and deciding what first comes to mind when asked certain questions I'm unfamiliar with. It almost feels the same as staring blankly at a exam paper and not knowing what the answer is. The feeling of panick and haste arise before I choose an answer instead of thinking critically for more than 30 seconds.
 
-**Thinking Critically** means, pausing for seconds and ask questions 
+**Thinking Critically** means, pause for a significatn amount of seconds and ask first principle questions. The way to think about this is to get to the root node of the topic at hand, by asking critical questions. These questions illuminate new branches of a node that lead you backwards to the root topic. As if you are starting from the surface and deepening your understanding through insightful and meanigful questions.
+
+This process of thinking critically may not be for everyone. It is an uncomfortable process that gets most people annoyed, especially, as I observed may feel they're ego is challenged.
+
+[LEAD TO FRAMEWORKS OF QUESTIONS]
+
+
 **Johannes Gensfleisch zur Laden zum Gutenberg** (c. 1398 – 1468) was a German blacksmith, goldsmith, printer, and publisher who introduced printing to Europe. His invention of mechanical movable type printing started the Printing Revolution and is widely regarded as the most important event of the modern period. It played a key role in the development of the Renaissance, Reformation, the Age of Enlightenment, and the Scientific revolution and laid the material basis for the modern knowledge-based economy and the spread of learning to the masses.
 
 <figure class="float-right" style="width: 240px">
