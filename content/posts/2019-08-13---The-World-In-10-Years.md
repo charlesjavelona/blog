@@ -2,7 +2,7 @@
 title: "Intro To Neural Networks"
 date: "2019-08-09T22:12:03.284Z"
 template: "post"
-draft: false
+draft: true
 slug: "/posts/intro-to-neural-networks/"
 category: "Machine Learning"
 tags:

@@ -2,7 +2,7 @@
 title: "Building an IO Game"
 date: "2019-08-04T22:12:03.284Z"
 template: "post"
-draft: false
+draft: true
 slug: "/posts/io-game-part-1/"
 category: "Game"
 tags:
